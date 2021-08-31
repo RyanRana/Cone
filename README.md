@@ -1,4 +1,4 @@
-<h1>Cone<h1> <br>
+<h1>Cone</h1> <br>
 Cone is a php application that allows users to share all their social medias, contact information, and external links by QRCode. It has a login/signup page for users to create an account, a automatic QRcode generator, and a sharable link. To run you need to import Connect.Sql as a database and run the index.php file.
 
 QRCODE API IS NOT MY CODE. READ THE FOLLOWING.
